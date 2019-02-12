@@ -1,6 +1,6 @@
 # Bank_Application_In_Python
 
-In this You get To Know About OOPS(especially encapsulation in Python)
+In this You Will get To Know About OOPS(especially encapsulation in Python)
 
 Installation:
         https://docs.python.org/3/using/windows.html
